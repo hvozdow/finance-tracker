@@ -1,4 +1,4 @@
-http://fintracker.herokuapp.com
+http://financer-.herokuapp.com
 
 Use email: test3@test.com and pass: test3test3
 
